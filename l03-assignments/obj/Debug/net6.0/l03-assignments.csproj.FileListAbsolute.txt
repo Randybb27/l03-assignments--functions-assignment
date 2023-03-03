@@ -1,0 +1,15 @@
+/Users/randybeebe/Desktop/C#-Course/l03-assignments/l03-assignments/bin/Debug/net6.0/l03-assignments
+/Users/randybeebe/Desktop/C#-Course/l03-assignments/l03-assignments/bin/Debug/net6.0/l03-assignments.deps.json
+/Users/randybeebe/Desktop/C#-Course/l03-assignments/l03-assignments/bin/Debug/net6.0/l03-assignments.runtimeconfig.json
+/Users/randybeebe/Desktop/C#-Course/l03-assignments/l03-assignments/bin/Debug/net6.0/l03-assignments.dll
+/Users/randybeebe/Desktop/C#-Course/l03-assignments/l03-assignments/bin/Debug/net6.0/l03-assignments.pdb
+/Users/randybeebe/Desktop/C#-Course/l03-assignments/l03-assignments/obj/Debug/net6.0/l03-assignments.csproj.AssemblyReference.cache
+/Users/randybeebe/Desktop/C#-Course/l03-assignments/l03-assignments/obj/Debug/net6.0/l03-assignments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/randybeebe/Desktop/C#-Course/l03-assignments/l03-assignments/obj/Debug/net6.0/l03-assignments.AssemblyInfoInputs.cache
+/Users/randybeebe/Desktop/C#-Course/l03-assignments/l03-assignments/obj/Debug/net6.0/l03-assignments.AssemblyInfo.cs
+/Users/randybeebe/Desktop/C#-Course/l03-assignments/l03-assignments/obj/Debug/net6.0/l03-assignments.csproj.CoreCompileInputs.cache
+/Users/randybeebe/Desktop/C#-Course/l03-assignments/l03-assignments/obj/Debug/net6.0/l03-assignments.dll
+/Users/randybeebe/Desktop/C#-Course/l03-assignments/l03-assignments/obj/Debug/net6.0/refint/l03-assignments.dll
+/Users/randybeebe/Desktop/C#-Course/l03-assignments/l03-assignments/obj/Debug/net6.0/l03-assignments.pdb
+/Users/randybeebe/Desktop/C#-Course/l03-assignments/l03-assignments/obj/Debug/net6.0/l03-assignments.genruntimeconfig.cache
+/Users/randybeebe/Desktop/C#-Course/l03-assignments/l03-assignments/obj/Debug/net6.0/ref/l03-assignments.dll
